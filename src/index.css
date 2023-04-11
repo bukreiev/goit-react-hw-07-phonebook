@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
 
 body {
   margin: 0;
@@ -13,3 +13,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-title {
+  color: #fff;
+  margin: 30px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  font-size: 48px;
+}
+.title {
+  color: #fff;
+  margin: 30px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 38px;
+}
+
+.container {
+    background-image: url(/public/background.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position-y: 20%;
+      background-attachment: fixed;
+}
+
