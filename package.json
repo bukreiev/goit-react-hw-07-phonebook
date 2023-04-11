@@ -2,7 +2,7 @@
   "name": "goit-react-hw-07-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bukreiev/goit-react-hw-07-phonebook",
+  "homepage": "https://bukreiev.github.io/goit-react-hw-07-phonebook",
   "dependencies": {
     "@emotion/styled": "^11.10.6",
     "@reduxjs/toolkit": "^1.9.3",
